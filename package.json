@@ -1,0 +1,13 @@
+{
+	"name": "ig-nodejs-workerpool",
+	"version": "0.1.0",
+	"author": "Ricardo Massa <rgermano@igcorp.com.br>",
+	"main": "lib/worker-pool.js",
+ 	"dependencies": {
+    	"winston": "0.7.x"
+  	},
+  	"devDependencies": {
+	    "async": "0.2.x",
+	    "jasmine-node": "1.13.x"
+  	} 
+}
